@@ -1,8 +1,7 @@
 # Othmane El Kaabi
 
 Software Developer · CS Student · AI & ML Enthusiast  
-Marrakech, Morocco · [Email](mailto:elkaabiothmane4@gmail.com) · [LinkedIn](https://www.linkedin.com/in/othmaneelkaabi/) · [GitHub](#https://github.com/moi-brooks)
-
+Marrakech, Morocco · [elkaabiothmane4@gmail.com](mailto:elkaabiothmane4@gmail.com) · [LinkedIn](https://www.linkedin.com/in/othmaneelkaabi/) · [GitHub](https://github.com/moi-brooks) · [Porfolio](https://www.elkaabiothmane.me/)
 ---
 
 ## About
